@@ -73,13 +73,13 @@
 # lpyr(1000) 
 
 #find the largest among 3 numbers 
-A=int(input("Enter the digit A: "))  
-B=int(input("Enter the digit B: "))
-C=int(input("Enter the digit C: "))
+# A=int(input("Enter the digit A: "))  
+# B=int(input("Enter the digit B: "))
+# C=int(input("Enter the digit C: "))
 
-if A>B and A>C:
-    print(A,"is greater than",B,C)
-elif B>A and B>C:
-    print(B,"is greaterthan",A,C)
-else:
-    print(C,"is greaterthan",A,B)        
+# if A>B and A>C:
+#     print(A,"is greater than",B,C)
+# elif B>A and B>C:
+#     print(B,"is greaterthan",A,C)
+# else:
+#     print(C,"is greaterthan",A,B)        
