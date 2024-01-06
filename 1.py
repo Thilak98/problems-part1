@@ -72,7 +72,11 @@
 # # lpyr(2048) 
 # # lpyr(1000) 
 
+<<<<<<< HEAD
 # #find the largest among 3 numbers 
+=======
+#find the largest among 3 numbers 
+>>>>>>> 6e845945a58ad6f0632ec3ff63992e414a17d37c
 # A=int(input("Enter the digit A: "))  
 # B=int(input("Enter the digit B: "))
 # C=int(input("Enter the digit C: "))
@@ -82,6 +86,7 @@
 # elif B>A and B>C:
 #     print(B,"is greaterthan",A,C)
 # else:
+<<<<<<< HEAD
 #     print(C,"is greaterthan",A,B)  
 
 #check weather a number is prime or not
@@ -107,3 +112,6 @@
 #imprort a random number b/w 1 to 6
 import random
 print(random.randrange(1,7))
+=======
+#     print(C,"is greaterthan",A,B)        
+>>>>>>> 6e845945a58ad6f0632ec3ff63992e414a17d37c
